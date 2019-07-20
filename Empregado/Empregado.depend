@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563585804 source:c:\users\wesll\Área de trabalho\empregado\src\empregado.cpp
+	"Empregado.h"
+
+1563585551 c:\users\wesll\Área de trabalho\empregado\include\empregado.h
+	<string>
+
+1563585962 source:c:\users\wesll\Área de trabalho\empregado\main.cpp
+	<iostream>
+	"Empregado.h"
+
